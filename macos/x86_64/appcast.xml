@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:djlab="urn:djlab:update:1">
+  <channel>
+    <title>DJ Lab</title>
+    <djlab:sequence>1</djlab:sequence>
+    <djlab:issued>2026-11-20T23:55:32Z</djlab:issued>
+    <djlab:expires>2027-01-19T23:55:32Z</djlab:expires>
+    <item>
+      <title>DJ Lab 0.9.0-beta.5</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.9.0-beta.5</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <djlab:arch>x86_64</djlab:arch>
+      <sparkle:releaseNotesLink>https://gitnoureldin.github.io/djlab-releases/notes/0.9.0-beta.5.html</sparkle:releaseNotesLink>
+      <description>First Mac test version for friends, with Google sign-in, in-app feedback and automatic updates.</description>
+      <djlab:sha256>a862ebb0a5dd9f1a5ef7c74064b12e544225685bccaa92cc23e106f923016d4e</djlab:sha256>
+      <enclosure url="https://github.com/gitnoureldin/djlab-releases/releases/download/v0.9.0-beta.5-build7/DJLab-0.9.0-beta.5-build7-x86_64.zip" length="28531704" type="application/octet-stream" sparkle:edSignature="Loe2L5ATR/6nV4kxQhGj75G7SX1BgaloTi66MXZNYhTGXp1TM/+VhothYGREKeK72X7qtFVeJciL5nrqhg/eAg=="/>
+    </item>
+  </channel>
+</rss>
